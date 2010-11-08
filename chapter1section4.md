@@ -91,18 +91,6 @@ Ruby has a lot of good facets (haha, precious gem joke) that are very easy to id
 Like every other language Ruby has some bad parts too. The Ruby Community is so terrible that I've devoted an entire chapter just to the culture around Ruby. The standard Ruby interpretor (1.8) is really slow compared to pretty much every other modern used language. The latest stable version (1.9) is only just now coming into broad usage by developers. Ruby isn't scalable naturally for the most part, and requires external sources and languages to assist it. One programmer has told me that the long time solution to this was, "Run more machines with Ruby," which is an obviously flawed approach. Open Ruby projects tend to have serious little or poor documentation and for the most part hasn't improved.
 
 
-## [The Ruby Revolution & Renaissance](id:section-three)
-Now that you know what Ruby is (or at least the definition of Ruby) and how it started, it's time to learn about the history. The era, called the _Ruby Revolution_ by some, of most significance started in 2004. The Ruby Revolution concerns the period of time where Rails hit the scene and started to cause a fuss among web developers. The "fuss" would be called _Ruby Philosophy_. The core philosophy behind Ruby is "DRY: Don't Repeat Yourself". During this time period you can see at least three sides forming in the web development community: The older fellows who liked what they had (JavaEE, PHP) and didn't think this new fangled Ruby On Rails was worth the change, the younger developers who quite enjoyed the ease Rails and Ruby gave them, and those that didn't care either way.
-
-While web development and web frameworks existed long before Rails, it was commonly considered that web application development sucked. It was something you had to really plow through without much help. The idea that web development could be significantly easier made a lot of people happy. Of course, Ruby and Rails wasn't (and isn't) perfect, but it was the initial push toward making things easier that mattered. The thing is the Ruby Revolution wouldn't have happened without the success of Ruby On Rails with American developers. Thanks to the Rails phenomenon the number of Ruby developers in the United states and European Union grew by incredible amounts. Even though there is an even smaller divide among Rubyists on Rails, we owe a lot of Ruby's following and popularity to Rails.
-
-![David Heineiehem Handsomface](/img/dhh.png "DHH: The Ruby Pretty Boy")
-
-As with all revolutions there had to end, and it did end around the year 2009. Though while the _Ruby Revolution_ ended many claimed that 2010 will be the start of the _Ruby Renaissance_. An era for Ruby to refine many aspects of the language and it's parts. At the end of 2009 Ruby already had four variations, the beginning of a Standard, and the rise of three other major web frameworks beyond Rails. More importantly many companies were (and are) specifically hiring Ruby and Ruby On Rails developers.
-
-A lot of articles have been written and will be written about the Ruby Revolution and the change that Ruby has made in the web development area. It's a good idea to keep in mind that Ruby's Revolution and Renaissance didn't sprout from a void. The real source of Ruby's success is you, future developers and users.
-
-
 ## [Rock Out To The Rock Star](id:section-four)
 The term Rockstar, or Rock Star, in the context of developers or developing is commonly meant to describe someone who has a cult like following. Rock Stars are programmers who do things (sometimes amazing things) and advance the community or the language. Like Jimi Hendrix, Elvis, and Lynyrd Skynyrd, the Rock Stars usually have a large amount of followers and disciples that watch their every word and movement. Rock Stars don't have everything going for them however. Much like the music gods they're titled after eventually the Rock Star burns out and either becomes destructive or washes away in mystery. I know, who thought Programming could be so dramatic?
 
@@ -117,53 +105,3 @@ Zed Shaw developed Mongrel, an open-source HTTP library and web server for Ruby 
 You might wonder why I don't use \_why's real name, and instead use his moniker Why The Lucky Stiff. This is because no one currently knows his true identity and is willing to tell. \_why has developed many projects that have changed the face of the Ruby Community. His efforts to guide the Ruby Community into a place where new people are met with enthusiasm and not disgust have put him in the Rock Star Hall of Fame along with Zed Shaw. Unlike most Rock Stars he went out with a serious whimper, rather than a dramatic bang. One day all of his repositories and social networking accounts were closed and gone. Many of his works are now mirrored, but developers of Ruby have all felt his impact.
 
 While Rock Stars have a limited time to do good before they burn out it's important to understand that Rock Stars do in fact do good. Think of them as Nitrous Oxide Systems, that for a short period drastically increase the speed the community moves at. The Ruby Community has a lot to gain from these men of action, despite their short social life spans.
-
-
-## [The Cherry Kool-Aid](id:section-five)
-Like many geek cultures that exist today the programming communities tend to have a very common problem: Power users, fanboys, and evangelists. Fanatics of a religion, political party, or creed have always existed and the programming culture is no less afflicted by them. In fact due to the social ineptitude many geeks live with we are more prone to the red haze of cultism. You're mistaken if you think I'm joking when I say that there have been actual fist fights over which indentation style to use in C, or what command line editor to write with. Despite the Hacker culture's focus on individuality and freedom, the Ruby world is still a geek world.
-
-![Awesome Placeholder Image](http://dummyimage.com/300/00/44.png&text=Awesome%20Placeholder "So awesome.")
-
-Ever since Rails rolled out the Ruby community has stepped knee deep in hype and hyperbole. It started off as lot of programmers becoming very enthusiastic about a new and expressive language. It didn't help that the community had a lot of early Rock Stars emerging from Rails, and that they talked a lot of smack about other languages. Many touted Ruby as the Great White Hope of Programming. It's a general consensus among Rubyits that the egotism and dickery comes directly from Rails's growth.
-
-The reality here is that geeks of any flavor tend to gush over new toys and geeks of any flavor tend to rant about others gushing. In recent years the type of behavior described has slowly ground to a halt as the fanatics are pushed aside and the community, and language, matures. It is important to realize that his behavior stems from ignorance and the best cure is education. We as a group cannot abide by this blind fervor because it will ultimately ruin a lot of what Ruby stands for: The enjoyment of developing.
-
-![Awesome Placeholder Image](http://dummyimage.com/300/00/44.png&text=Awesome%20Placeholder "So awesome.")
-
-
-## [Credits & Licensing](id:section-six)
-Alright, you've gotten through the boring part of the book. You know about Ruby, the history, and some of the pitfalls of the community. You're equipped, now, to start learning Ruby and building applications. Hopefully you can start understand why I've written this guide, especially this way, once you get into Ruby developing on your own. This book is of course not the last thing you'll read. In fact you should go on to read these great books, because they inspired me to write this:
-
-* [Learn Python The Hard Way](http://learnpythonthehardway.org/) (Read Chapter 1 first, then you can read either book.)
-* [Poignant Guide To Ruby](http://mislav.uniqpath.com/poignant-guide/) (Written in an odd but fun way.)
-* [Eloquent Javascript](http://eloquentjavascript.net/) (Also free and web/pdf)
-* [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.html) (Also free and web/pdf)
-* [Programming Ruby](http://ruby-doc.org/docs/ProgrammingRuby/) (Not free/Web)
-* [Learn You A Haskell For Great Good](http://learnyouahaskell.com/)
-* [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/)
-* [Learning Clojure](http://en.wikibooks.org/wiki/Learning_Clojure)
-
-Also, here's the [copyright](/book/copyright).
-
-## [How This Book Works](id:section-seven)
-**Good!** You've heroically made it to the end of Chapter One. I promise the next chapter won't be too terribly long. In fact chapters three through ten will all be ten sections long, while chapter two will have 1 setup section and 10 learning sections. Each section of each chapter will be in five important sections:
-
-* A brief summary of what the section will teach you
-* A bit of source code
-* A result of running the code
-* A detailed description of each (new) important part
-* And some extra credit tasks
-
-![Awesome Placeholder Image](http://dummyimage.com/300/00/44.png&text=Awesome%20Placeholder "So awesome.")
-
-Now that we know all the pieces to the puzzle it's time to learn how to read and use this book. Follow each step exactly and then go wild:
-
-1. Read the brief description, don't worry if you don't fully understand it
-2. Create a new file, in your projects directly (We'll get to that), called `lytr#.rb` and replace the # with the task number.
-3. Write each line from the source code into the file. **Do not copy and paste**. The point is to learn by doing.
-4. Read the detailed description and the code you just wrote.
-5. Run the code, see if you get the desired output. If you don't, return to step 3. _**Note**: Some sections will have **secret bugs** just for you to figure out!_
-6. If you feel confidant check out the extra credit portions, change the code around, and get messy!
-
-It is very important that you type each bit of source code out. It will make the learning process a whole lot easier and give you a deeper, first hand, understanding of writing Ruby code. Once you've followed each step carefully you should understand another portion of how to program with Ruby. Initially this might be a very difficult way of learning how to program with Ruby, but if you stick with it you'll be hacking out apps left and right. One last thing before we start you on the really interesting things: Have. Fun.
-
