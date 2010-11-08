@@ -1,4 +1,3 @@
-## [HCP: Hackers, Code, and Programming](id:section-one)
 > The computer programmer is a creator of universes for which he alone is responsible. Universes of virtually unlimited complexity can be created in the form of computer programs. 
 
 > **Joseph Weizenbaum**, Computer Power and Human Reason
@@ -13,7 +12,7 @@ Lets talk about each one specifically since they're going to be so prevalent in 
 
 **Guess what**: That's not what _hacker_ means. No, there's already a name for people who do what I just described: Criminals. They don't need a special name to help them appear more mysterious or dangerous. In reality, a hacker is a member of the hacker subculture and simply an individual who seeks to learn as much as possible using technology. Usually under a self-defined code of ethics, not necessarily ones that reflect common law. Many consider the only method of learning is to examine, since the information necessary for their own enlightenment is not free.‏
 
-![Real Hackers](/img/hacker.png "Yeah, it's kinda like that.")
+![Real Hackers](images/hacker.png "Yeah, it's kinda like that.")
 
 The latter two terms are less culturally significant but should still be defined and talked about: _Programming_ is the act of writing code, using a programming language. A programming language is the language we, humans, use to instruct computers, dumb pieces of plastic, on what to do. A program (or script) is a list of instructions that you've laid out for the computer to follow and complete. Programs are sometimes called software, applications, or scripts depending on the complexity or detail involved in using them.
 

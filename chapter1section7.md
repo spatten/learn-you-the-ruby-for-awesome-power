@@ -1,4 +1,3 @@
-## [How This Book Works](id:section-seven)
 **Good!** You've heroically made it to the end of Chapter One. I promise the next chapter won't be too terribly long. In fact chapters three through ten will all be ten sections long, while chapter two will have 1 setup section and 10 learning sections. Each section of each chapter will be in five important sections:
 
 * A brief summary of what the section will teach you

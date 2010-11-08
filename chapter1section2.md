@@ -1,4 +1,3 @@
-## [def ruby](id:section-two)
 > A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
 > 
 > **Ruby Lang**, http://ruby-lang.org
@@ -9,7 +8,7 @@
 > 
 > **Wikipedia**, http://en.wikipedia.org/wiki/Ruby_(programming_language)
 
-![It Came From Japana](/img/from-japan.png ":horror-face:")
+![It Came From Japana](images/from-japan.png ":horror-face:")
 
 You didn't come here to read about a few definitions, though. You came here to learn about Ruby (or else you're going to be mildly disappointed). So let's learn about Ruby: Ruby is a programming language. Ok, so you probably figured that out already. Here's some important information that wont make sense yet: The Ruby programming language is expressive, imperative, and object-oriented. Ruby doesn't require a compile step, but instead is interpreted by an interpretor. The Ruby programming language is geared toward and designed for both simplicity and enjoyability. Ruby's goal is to make development very fun and easy for developers.
 
@@ -17,7 +16,7 @@ You didn't come here to read about a few definitions, though. You came here to l
 
 Ruby was officially named on 1993-02-24 in Japan by it's creator Yukihiro "Matz" Matsumoto. The language went public 1995-12-21 with Ruby v0.95. Ruby v1.0 wouldn't crawl around until a year later, 1996-12-25. Somewhere during the year 2000 Ruby would finally become used mainstream outside of Japan, and on 2001-12-15 the Pragmatic Programmers released Programming Ruby, otherwise known as _Pickaxe_. 2001 also happened to be the year of the ever successful convention, RubyConf? which was first called RubyConf?.new(2001). It's an inside joke you'll get later.
 
-![The Real Matz](/img/matz.png "Matz: The Original Ruby Goatee")
+![The Real Matz](images/matz.png "Matz: The Original Ruby Goatee")
 
 The ball didn't start really rolling until David "DHH" Heinmeier hit the scene. Mr. Heinemeier designed and created Rails (Usually called Ruby On Rails) and opened the source on 2004-07. He didn't give commit rights (The right to change the code) to anyone else until 2005-02 and even then it's a strict list. Rails exploded onto the web development scene like the Virut virus on an unsuspecting computer. DHH had single handedly made web development enjoyable, the cad. Apple Inc. picked up on this crazy development in the webtech scene and announced that Mac OS X (10.5, Leopard) would ship with the latest Rails in 2004-08.
 

@@ -1,4 +1,3 @@
-## [The Cherry Kool-Aid](id:section-five)
 Like many geek cultures that exist today the programming communities tend to have a very common problem: Power users, fanboys, and evangelists. Fanatics of a religion, political party, or creed have always existed and the programming culture is no less afflicted by them. In fact due to the social ineptitude many geeks live with we are more prone to the red haze of cultism. You're mistaken if you think I'm joking when I say that there have been actual fist fights over which indentation style to use in C, or what command line editor to write with. Despite the Hacker culture's focus on individuality and freedom, the Ruby world is still a geek world.
 
 ![Awesome Placeholder Image](http://dummyimage.com/300/00/44.png&text=Awesome%20Placeholder "So awesome.")
