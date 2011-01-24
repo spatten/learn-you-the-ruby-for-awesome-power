@@ -34,3 +34,6 @@ Ruby has a lot of good facets (haha, precious gem joke) that are very easy to id
 ![Awesome Placeholder Image](http://dummyimage.com/300/00/44.png&text=Awesome%20Placeholder "So awesome.")
 
 Like every other language Ruby has some bad parts too. The Ruby Community is so terrible that I've devoted an entire chapter just to the culture around Ruby. The standard Ruby interpretor (1.8) is really slow compared to pretty much every other modern used language. The latest stable version (1.9) is only just now coming into broad usage by developers. Ruby isn't scalable naturally for the most part, and requires external sources and languages to assist it. One programmer has told me that the long time solution to this was, "Run more machines with Ruby," which is an obviously flawed approach. Open Ruby projects tend to have serious little or poor documentation and for the most part hasn't improved.
+
+
+There's more on this in [chapter 4](#chapter4)
