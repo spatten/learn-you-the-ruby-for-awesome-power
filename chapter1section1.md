@@ -41,6 +41,6 @@ It's obvious in the previous two examples that programming languages are a tool 
 
 ### Ruby's "Hello, World"
 
-<<(code/hello-word.rb)
+<<(code/hello-world.rb)
     
 Meanwhile, _Code_ is a language agnostic term for the source code that we write. Further, source code is is any collection of statements or declarations written in some human-readable computer programming language. The above examples I've listed are exactly that: Code.
