@@ -19,8 +19,8 @@ The latter two terms are less culturally significant but should still be defined
 The act of programming is to write these scripts or applications in a programming language, like Ruby. A computer only knows how and when to do things if you tell it to in it's own language, Binary. 
 
 ### Binary's Count 1 To 10, Print Sum
-    
-<script src="http://gist.github.com/654757.js?file=count-to-ten.binary"></script>
+
+<<(code/count-to-ten.binary)    
 
 This program tells the computer to take every number from 1 to 10, add them together, and display the sum (55). It's complex, arcane, and completely unreadable to the naked eye for most people. Would you believe that people actually programmed applications this way? Simple software, like a calculator, required complex and time consuming work that was error prone and easily crashed. The same code is written here in Ruby:
 
@@ -29,8 +29,7 @@ This program tells the computer to take every number from 1 to 10, add them toge
 <script src="http://gist.github.com/654757.js?file=count-to-ten.rb"></script>
 
 Or even:
-
-<script src="http://gist.github.com/654757.js?file=alt-count-to-ten.rb"></script>
+<<(code/alt-count-to-ten.rb)
 
 ![Awesome Placeholder Image](http://dummyimage.com/300/00/44.png&text=Awesome%20Placeholder "So awesome.")
 
@@ -38,10 +37,10 @@ It's obvious in the previous two examples that programming languages are a tool 
 
 ### Java's "Hello, World"
 
-<script src="http://gist.github.com/654757.js?file=hello-world.java"></script>
+<<(code/hello-world.java)
 
 ### Ruby's "Hello, World"
 
-<script src="http://gist.github.com/654757.js?file=hello-world.rb"></script>
+<<(code/hello-word.rb)
     
 Meanwhile, _Code_ is a language agnostic term for the source code that we write. Further, source code is is any collection of statements or declarations written in some human-readable computer programming language. The above examples I've listed are exactly that: Code.
